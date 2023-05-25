@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url('https://media.istockphoto.com/id/1142596661/photo/pastel-cloudy-sky.jpg?s=612x612&w=0&k=20&c=wESMSPkM8cfz2G-6aRxxE0VEQAEm8A4thSvkaWsiZDg=');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {
